@@ -18,8 +18,10 @@ The user is able to:
 
 * Filter the employees by at their name;
 
+## Deployeded link: https://islam4049.github.io/employee-directory/
+
 ## Live demo : 
-[https://drive.google.com/file/d/12_P939wHGTpH02Mpv_QxwPalNHqCeJDe/view?usp=sharing]
+(https://drive.google.com/file/d/12_P939wHGTpH02Mpv_QxwPalNHqCeJDe/view?usp=sharing)
  
 
 
