@@ -21,7 +21,7 @@ The user is able to:
 ## Deployeded link: https://islam4049.github.io/employee-directory/
 
 ## Live demo : 
-(https://drive.google.com/file/d/12_P939wHGTpH02Mpv_QxwPalNHqCeJDe/view?usp=sharing)
+[Video of the app](https://drive.google.com/file/d/12_P939wHGTpH02Mpv_QxwPalNHqCeJDe/view?usp=sharing)
  
 
 
